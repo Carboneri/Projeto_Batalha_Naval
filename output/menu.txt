@@ -1,0 +1,11 @@
+***************************************
+*                                     *
+*        BATALHA NAVAL - MENU         *
+*                                     *
+*                                     *
+* Se sua vida chegar a 0 o jogo acaba *
+*  1. Atacar                          *
+*  2. Dica                            *
+*  3. Sair do jogo                    *
+*                                     *
+***************************************

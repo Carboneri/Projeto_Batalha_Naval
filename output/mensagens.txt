@@ -1,0 +1,25 @@
+****************************************************
+*                                                  *
+*              BATALHA NAVAL - REGRAS              *
+*                                                  *
+* 1. Voce esta em uma missao para destruir os      *
+*    navios inimigos.                              *
+*                                                  *
+* 2. O tabuleiro contem navios (X), bombas (*) e   *
+*    espacos vazios (~).                           *
+*                                                  *
+* 3. Sua missao e atacar as posicoes no tabuleiro  *
+*    onde voce suspeita que ha navios.             *
+*                                                  *
+* 4. Voce tem uma vida que diminui ao errar e      *
+*    aumenta ao acertar um navio.                  *
+*                                                  *
+* 5. O jogo continua ate que sua vida chegue a 0.  *
+*                                                  *
+* 6. Boa sorte, comandante!                        *
+*                                                  *
+*                                                  *
+*                                                  *
+*                                                  *
+*                                                  *
+****************************************************
